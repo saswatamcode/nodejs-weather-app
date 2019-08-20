@@ -12,5 +12,4 @@ npm install ejs --save
 node server.js
 //Now open your browser and visit: localhost:3000
 ```
-
-
+App is hosted [here](https://fierce-falls-59017.herokuapp.com/)
